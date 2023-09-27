@@ -1,4 +1,4 @@
-# ibminternship
+# IBMINTERNSHIP
 
 # Sentiment Analysis for Restaurant Reviews
 
@@ -17,6 +17,7 @@ This project is a sentiment analysis system for restaurant reviews using artific
 2. Install the required dependencies.
 3. Run the application.
 
-##**Contact**:
-#ettedi ranadeesh
-#ranadeesh528@gmail.com
+## CONTACT:
+# ettedi ranadeesh
+# ranadeesh528@gmail.com
+
