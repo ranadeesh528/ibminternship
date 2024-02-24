@@ -21,3 +21,6 @@ This project is a sentiment analysis system for restaurant reviews using artific
 # ettedi ranadeesh
 # ranadeesh528@gmail.com
 
+![lEJjuXZfQUOyi9CS2ZqjMQ](https://github.com/ranadeesh528/ibminternship/assets/142151157/a881cbd3-ae94-4a11-954f-bfee3f16ba41)
+
+
